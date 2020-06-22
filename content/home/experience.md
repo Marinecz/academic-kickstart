@@ -61,6 +61,7 @@ Characterization of post-translational modifications (PTMs) and glycosylations o
   date_start = "2016-04-01"
   date_end = "2016-12-31"
   description = """Development of new polyelectrolyte multilayer coatings for intact protein analysis by capillary electrophoresis.
-  Coolaborations: Aalen University, DE"""
+  
+  Collaborations: Aalen University, DE"""
   
 +++
