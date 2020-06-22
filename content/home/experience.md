@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2018-07-31"
   description = """Taught electronic engineering and researched semiconductor physics.
-  Collaborations:"""
+  Collaborations: Aalen University, DE"""
 
 [[experience]]
   title = "M.Sc Student"
@@ -57,6 +57,7 @@ date_format = "Jan 2006"
   location = "Montepellier, FR"
   date_start = "2016-04-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Taught electronic engineering and researched semiconductor physics.
+  Coolaborations: Aalen University, DE"""
   
 +++
