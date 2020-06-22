@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D in Analytical Chemistry
     institution: Pardubice University, CZ
-    year: currently
+    year: 
   - course: M.Sc in Biomolecules Chemistry
     institution: Montpellier University, FR
     year: 
