@@ -40,8 +40,6 @@ date_format = "Jan 2006"
   date_end = "2018-07-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
   Collaborations:
-  
-  * Aalen University, DE
 
 [[experience]]
   title = "M.Sc Student"
