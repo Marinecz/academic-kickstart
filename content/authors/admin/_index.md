@@ -15,9 +15,9 @@ role: Ph.D Student in Proteomics
 # Organizations/Affiliations
 organizations:
 - name: Institute of Physiology, CAS
-  url: ""
+  url: "https://www.fgu.cas.cz/en/departments/laboratory-of-translational-metabolism"
 - name: Univerzita Pardubice
-  url: ""
+  url: "https://www.upce.cz/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D Student in Proteomics at Institute of Physiology in Prague
@@ -49,10 +49,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/marine-morvan-8a17a6142/
 - icon: researchgate
   icon_pack: ai
-  link: 
+  link: https://www.researchgate.net/profile/Marine_Morvan2
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=bmMvHYcAAAAJ&hl=en&oi=ao
