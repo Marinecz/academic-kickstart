@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   location = "Montepellier, FR"
   date_start = "2018-01-01"
   date_end = "2018-07-31"
-  description = """Modulation of the electroosmotic mobility using several charge rates of polyelectrolyte multilayer coatings for intact biomolecules analysis by capillary electrophoresis.
+  description = """Modulation of the electroosmotic mobility using several charge rates of polyelectrolyte multilayer coatings for intact biomolecules analysis by capillary electrophoresis.  
   Determination of charge rates of polyelectrolytes by 1H NMR.
 
   Collaborations: Aalen University, DE"""
