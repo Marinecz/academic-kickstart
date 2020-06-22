@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "M.Sc Student"
-  company = "Max Mousseron Institute"
+  company = "Max Mousseron Institute, Dynamics of Complex Biomolecular Systems team (DSBC)"
   company_url = ""
   location = "Montepellier, FR"
   date_start = "2018-01-01"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "M.Sc Student"
-  company = "Le Bel Institute"
+  company = "Le Bel Institute, Laboratory of Mass Spectrometry of Interactions and Systems (LSMIS)"
   company_url = ""
   location = "Strasbourg, FR"
   date_start = "2017-06-01"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   
   [[experience]]
   title = "M.Sc Student"
-  company = "Max Mousseron Institute"
+  company = "Max Mousseron Institute, Dynamics of Complex Biomolecular Systems team (DSBC)"
   company_url = ""
   location = "Montepellier, FR"
   date_start = "2016-04-01"
