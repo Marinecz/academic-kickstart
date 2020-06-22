@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marine Morvan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D Student in Proteomics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Institute of Physiology, CAS
+  url: ""
+- name: Univerzita Pardubice
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D Student in Proteomics at Institute of Physiology in Prague
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Proteomics
+- Metabolomics
+- Analysis by LC-MS and CE-MS
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D in Analytical Chemistry
+    institution: Pardubice University, CZ
+    year: currently
+  - course: M.Sc in Biomolecules Chemistry
+    institution: Montpellier University, FR
+    year: 
+  - course: B.Sc in Chemistry
+    institution: Le Mans University, FR
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
