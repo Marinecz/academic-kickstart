@@ -20,21 +20,16 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Ph.D Student"
   company = "Institute of Physiology, Laboratory of Translational Metabolism"
-  company_url = ""
+  company_url = "https://www.fgu.cas.cz/en/departments/laboratory-of-translational-metabolism"
   location = "Prague, CZ"
   date_start = "2019-09-01"
   date_end = ""
-  description = """Analysis of biologically important compounds by LC-MS and CE-MS.
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Analysis of biologically important compounds by LC-MS and CE-MS."""
 
 [[experience]]
   title = "M.Sc Student"
-  company = "Max Mousseron Institute, Dynamics of Complex Biomolecular Systems team (DSBC)"
-  company_url = ""
+  company = "Max Mousseron Institute of Biomolecules, Dynamics of Complex Biomolecular Systems team (DSBC)"
+  company_url = "http://www.dsbc.univ-montp2.fr/index_en.html"
   location = "Montepellier, FR"
   date_start = "2018-01-01"
   date_end = "2018-07-31"
@@ -46,7 +41,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "M.Sc Student"
   company = "Le Bel Institute, Laboratory of Mass Spectrometry of Interactions and Systems (LSMIS)"
-  company_url = ""
+  company_url = "http://complex-matter.unistra.fr/equipes-de-recherche/laboratoire-de-spectrometrie-de-masse-des-interactions-et-des-systemes/accueil/"
   location = "Strasbourg, FR"
   date_start = "2017-06-01"
   date_end = "2017-07-31"
@@ -55,8 +50,8 @@ Characterization of post-translational modifications (PTMs) and glycosylations o
   
   [[experience]]
   title = "M.Sc Student"
-  company = "Max Mousseron Institute, Dynamics of Complex Biomolecular Systems team (DSBC)"
-  company_url = ""
+  company = "Max Mousseron Institute of Biomolecules, Dynamics of Complex Biomolecular Systems team (DSBC)"
+  company_url = "http://www.dsbc.univ-montp2.fr/index_en.html"
   location = "Montepellier, FR"
   date_start = "2016-04-01"
   date_end = "2016-12-31"
