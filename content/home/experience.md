@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """Analysis of important biological coumponds by LC-MS and CE-MS
-  Responsibilities include:
   
   * Analysing
   * Modelling
@@ -40,6 +39,9 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2018-07-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+  Collaborations:
+  
+  * Aalen University, DE
 
 [[experience]]
   title = "M.Sc Student"
