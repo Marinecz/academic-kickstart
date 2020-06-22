@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Prague, CZ"
   date_start = "2019-09-01"
   date_end = ""
-  description = """Analysis of important biological coumponds by LC-MS and CE-MS
+  description = """Analysis of biologically important compounds by LC-MS and CE-MS.
   
   * Analysing
   * Modelling
@@ -50,7 +50,8 @@ date_format = "Jan 2006"
   location = "Strasbourg, FR"
   date_start = "2017-06-01"
   date_end = "2017-07-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Separation of intact therapeutic monoclonal antibodies isoforms by CESI-MS.  
+Characterization of post-translational modifications (PTMs) and glycosylations on sequence of digest therapeutic monoclonal antibody by CESI-MS/MS."""
   
   [[experience]]
   title = "M.Sc Student"
@@ -59,7 +60,7 @@ date_format = "Jan 2006"
   location = "Montepellier, FR"
   date_start = "2016-04-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics.
+  description = """Development of new polyelectrolyte multilayer coatings for intact protein analysis by capillary electrophoresis.
   Coolaborations: Aalen University, DE"""
   
 +++
