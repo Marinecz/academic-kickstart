@@ -37,8 +37,7 @@ date_format = "Jan 2006"
   description = """Modulation of the electroosmotic mobility using several charge rates of polyelectrolyte multilayer coatings for intact biomolecules analysis by capillary electrophoresis.  
   Determination of charge rates of polyelectrolytes by 1H NMR.
 
-  Collaborations: Prague University, CZ
-                  Lorraine University, FR"""
+  Collaborations: Prague University, CZ"""
 
 [[experience]]
   title = "M.Sc Student"
