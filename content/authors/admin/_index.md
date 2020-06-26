@@ -55,7 +55,7 @@ social:
   link: https://www.researchgate.net/profile/Marine_Morvan2
 - icon: orcid
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Marine_Morvan2
+  link: https://orcid.org/0000-0001-7904-7108
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=bmMvHYcAAAAJ&hl=en&oi=ao
