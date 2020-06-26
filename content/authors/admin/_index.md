@@ -24,7 +24,7 @@ bio: I am a Ph.D Student in Proteomics at Institute of Physiology in Prague
 
 interests:
 - Proteomics
-- Metabolomics
+- Chiral separation
 - Analysis by LC-MS and CE-MS
 
 education:
