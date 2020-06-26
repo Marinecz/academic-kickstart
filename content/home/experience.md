@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Montepellier, FR"
   date_start = "2018-01-01"
   date_end = "2018-07-31"
-  description = """Modulation of the electroosmotic mobility using several charge rates of polyelectrolyte multilayer coatings for intact biomolecules analysis by capillary electrophoresis.  
+  description = """Modulation of the electroosmotic mobility using several charge rates of polyelectrolyte multilayer coatings for intact biomolecules analysis by CE.  
   Determination of charge rates of polyelectrolytes by 1H NMR.
 
   Collaborations: Prague University, CZ"""
@@ -56,7 +56,7 @@ Characterization of post-translational modifications (PTMs) and glycosylations o
   location = "Montepellier, FR"
   date_start = "2016-04-01"
   date_end = "2016-12-31"
-  description = """Development of new polyelectrolyte multilayer coatings for intact protein analysis by capillary electrophoresis.
+  description = """Development of new polyelectrolyte multilayer coatings for intact protein analysis by CE-MS.
   
   Collaborations: Aalen University, DE"""
   
