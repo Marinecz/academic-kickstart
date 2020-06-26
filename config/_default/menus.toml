@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Communications"
-  url = "#featured"
+  url = "#communications"
   weight = 50
   
 [[main]]
