@@ -12,7 +12,8 @@ header:
   caption: ""
   image: ""
   
-  
+
+[[Recent & Upcoming Talks]]
 Title: "titre"
 Abstract: "resume"
 localisation: Toulouse, FR
