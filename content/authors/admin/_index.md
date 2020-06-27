@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "marine.morvan@fgu.cas.cz".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/marine-morvan-8a17a6142/
