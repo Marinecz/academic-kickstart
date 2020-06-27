@@ -11,9 +11,9 @@ view: 1
 header:
   caption: ""
   image: ""
-  
-
-[[Talk]]
+ 
+ 
+ 
 Title: "titre"
 Abstract: "resume"
 localisation: Toulouse, FR
