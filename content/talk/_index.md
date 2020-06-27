@@ -28,7 +28,7 @@ name: talks
       - {label: "All day event?", name: "all_day", widget: "boolean", default: false}
       - label: Links/Tickets
         name: links
-        required: false
+        required: true
         widget: list
         fields:
           - {label: Link, name: url, widget: string}
