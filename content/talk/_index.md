@@ -13,8 +13,8 @@ header:
   image: ""
   
   
-[[Recent & Upcoming Talks]]
-  title = "Ph.D Student"
+
+title = "Ph.D Student"
  
   
   
