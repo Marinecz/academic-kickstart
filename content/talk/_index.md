@@ -13,7 +13,7 @@ header:
   image: ""
   
 
-[[Recent & Upcoming Talks]]
+[[Talk]]
 Title: "titre"
 Abstract: "resume"
 localisation: Toulouse, FR
