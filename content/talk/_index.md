@@ -1,5 +1,5 @@
 ---
-
+title: Recent & Upcoming Talks
 
 # View.
 #   1 = List
@@ -13,8 +13,8 @@ header:
   image: ""
  
 
-- name: Recent & Upcoming Talks
-    label: Talks
+
+label: Talks
     label_singular: Talk
     folder: 'content/talk'
     path: '{{slug}}/index'
