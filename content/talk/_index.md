@@ -12,14 +12,28 @@ header:
   caption: ""
   image: ""
  
- 
-Title: "titre"
-Abstract: "resume"
-localisation: Toulouse, FR
-date: 2019-09-01
+
+- name: talks
+    label: Talks
+    label_singular: Talk
+    folder: 'content/talk'
+    path: '{{slug}}/index'
+    create: true  # Allow users to create new documents in this collection
+    fields:  # The fields each document in this collection have
+      - Title: "titre"
+      - Abstract: "resume"
+      - Organization: "ITP 2019"
+      - localisation: Toulouse, FR
+      - date: 2019-09-01
+      - date_end: 2019-09-04
 
 
- 
+
+
+
+
+
+
 
 
 
