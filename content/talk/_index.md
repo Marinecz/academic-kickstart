@@ -13,7 +13,7 @@ header:
   image: ""
  
 
-- name: talks
+- name: Recent & Upcoming Talks
     label: Talks
     label_singular: Talk
     folder: 'content/talk'
