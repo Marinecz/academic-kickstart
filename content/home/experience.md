@@ -25,7 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """Analysis of biologically important compounds by LC-MS and CE-MS.  
-  Chiral separation of amino acids for proteomic analysis"""
+  Chiral separation of amino acids for proteomic analysis.  
+  
+  Collaborations: Verona University, IT"""
 
 [[experience]]
   title = "M.Sc Student"
