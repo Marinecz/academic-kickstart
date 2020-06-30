@@ -112,11 +112,15 @@ directions = "Czech Academy of Sciences, Institute of Physiology, Building E, Of
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://twitter.com/Twitter"},
+  {icon = "researchgate", icon_pack = "fab", name = "ReserchGate", link = "https://twitter.com/Twitter"},
+  {icon = "orcid", icon_pack = "fab", name = "ORCID", link = "https://twitter.com/Twitter"},
+  {icon = "google_scholar", icon_pack = "fab", name = "Google Scholar", link = "https://twitter.com/Twitter"},
   ]
 
 ############################
