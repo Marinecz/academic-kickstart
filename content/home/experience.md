@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2018-07-31"
   description = """Modulation of the electroosmotic mobility using several charge rates of polyelectrolyte multilayer coatings for intact biomolecules analysis by CE.  
-  Determination of charge rates of polyelectrolytes by 1H NMR.
+  Determination of charge rates of polyelectrolytes by <sup>1</sup>H NMR.
 
   Collaboration: Prague University, CZ"""
 
