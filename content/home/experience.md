@@ -27,19 +27,19 @@ date_format = "Jan 2006"
   description = """Analysis of biologically important compounds by LC-MS and CE-MS.  
   Chiral separation of amino acids for proteomic analysis.  
   
-  Collaborations: Verona University, IT"""
+  Collaboration: Verona University, IT"""
 
 [[experience]]
   title = "M.Sc Student"
   company = "Max Mousseron Institute of Biomolecules, Dynamics of Complex Biomolecular Systems team (DSBC)"
   company_url = "http://www.dsbc.univ-montp2.fr/index_en.html"
-  location = "Montepellier, FR"
+  location = "Montpellier, FR"
   date_start = "2018-01-01"
   date_end = "2018-07-31"
   description = """Modulation of the electroosmotic mobility using several charge rates of polyelectrolyte multilayer coatings for intact biomolecules analysis by CE.  
   Determination of charge rates of polyelectrolytes by 1H NMR.
 
-  Collaborations: Prague University, CZ"""
+  Collaboration: Prague University, CZ"""
 
 [[experience]]
   title = "M.Sc Student"
@@ -55,11 +55,11 @@ Characterization of post-translational modifications (PTMs) and glycosylations o
   title = "M.Sc Student"
   company = "Max Mousseron Institute of Biomolecules, Dynamics of Complex Biomolecular Systems team (DSBC)"
   company_url = "http://www.dsbc.univ-montp2.fr/index_en.html"
-  location = "Montepellier, FR"
+  location = "Montpellier, FR"
   date_start = "2016-04-01"
   date_end = "2016-12-31"
   description = """Development of new polyelectrolyte multilayer coatings for intact protein analysis by CE-MS.
   
-  Collaborations: Aalen University, DE"""
+  Collaboration: Aalen University, DE"""
   
 +++
