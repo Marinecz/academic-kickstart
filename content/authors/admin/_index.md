@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Student in Proteomics 
+I am a PhD Student in Proteomics at Institute of Physiology CAS within Laboratory of Translational Metabolism in Prague (Czech Republic).
