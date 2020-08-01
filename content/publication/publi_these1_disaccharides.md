@@ -19,7 +19,7 @@ day_all: true
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
+publication: "submitted"
 publication_short: ""
 
 abstract: ""
