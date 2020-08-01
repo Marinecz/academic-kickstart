@@ -1,16 +1,14 @@
 ---
 title: "Analysis of chondroitin/dermatan sulphate disaccharides using high-performance liquid chromatography"
 authors:
-- Laurent Leclercq
+- Ivan Miksik
 - Marine Morvan
-- Jens Koch
-- Christian Neusüß
-- Hervé Cottet
 
-doi: "10.1016/j.aca.2019.01.008"
+
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-18"
+publishDate: "2020-08-01"
 day_all: true
 
 
@@ -21,10 +19,10 @@ day_all: true
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Analytica Chimica Acta"
-publication_short: "Anal. Chim. Acta."
+publication: "Submitted"
+publication_short: ""
 
-abstract: "Successive multiple ionic-polymer layers (SMIL) coatings have been often used in capillary electrophoresis due to their simplicity to implement and regenerate. However, the performances of the separation are strongly dependent on the nature of the polyelectrolyte partners used to build the SMIL coating. In this work, we investigate new couples of polyelectrolytes that were not tested before: namely, polybrene (PB), quaternized diethylaminoethyl dextran (DEAEDq) and ε-poly(lysine) (ε-PLL), as polycations, in combination with poly(acrylic acid), dextran sulfate, poly(styrenesulfonate), poly(methacrylic acid) and poly(L-lysine citramide), as polyanions. Systematic study of intra- and inter-capillaries repeatabilities/reproducibilities was performed based on the determination of migration time, separation efficiency and electroosmotic mobility. Interestingly, the electroosmotic flow was found to vary with the nature of the polycation on a broad range of electroosmotic mobility decreasing in magnitude in the order of PB>ε-PLL > DEAEDq, whatever the polyanion associated. Application of the coatings to the separation of proteins is illustrated in a 0.5M acetic acid BGE, including CE-MS separation of ribonuclease B-glycoforms of the same mass (positional or structural isomers)."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
