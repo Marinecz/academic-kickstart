@@ -24,19 +24,19 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Successive multiple ionic-polymer layers (SMIL) coatings have been often used in capillary electrophoresis due to their simplicity to implement and regenerate. However, the performances of the separation are strongly dependent on the nature of the polyelectrolyte partners used to build the SMIL coating. In this work, we investigate new couples of polyelectrolytes that were not tested before: namely, polybrene (PB), quaternized diethylaminoethyl dextran (DEAEDq) and ε-poly(lysine) (ε-PLL), as polycations, in combination with poly(acrylic acid), dextran sulfate, poly(styrenesulfonate), poly(methacrylic acid) and poly(L-lysine citramide), as polyanions. Systematic study of intra- and inter-capillaries repeatabilities/reproducibilities was performed based on the determination of migration time, separation efficiency and electroosmotic mobility. Interestingly, the electroosmotic flow was found to vary with the nature of the polycation on a broad range of electroosmotic mobility decreasing in magnitude in the order of PB>ε-PLL > DEAEDq, whatever the polyanion associated. Application of the coatings to the separation of proteins is illustrated in a 0.5M acetic acid BGE, including CE-MS separation of ribonuclease B-glycoforms of the same mass (positional or structural isomers)."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
