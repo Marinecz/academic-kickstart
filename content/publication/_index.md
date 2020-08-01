@@ -9,9 +9,9 @@ title: Publications
 view: 1
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+# header:
+  # caption: ""
+  # "image: ""
   
 
 
@@ -50,7 +50,7 @@ tags:
 featured: false
 
 # links:
-# - name: ""
+# - name: "Modulation of"
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
