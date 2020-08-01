@@ -1,10 +1,11 @@
-- name: talks
-    label: Talks
-    label_singular: Talk
-    folder: 'content/talk'
-    path: '{{slug}}/index'
-    create: true  # Allow users to create new documents in this collection
-    fields:  # The fields each document in this collection have
+---
+name: talks
+label: Talks
+label_singular: Talk
+folder: 'content/talk'
+path: '{{slug}}/index'
+create: true  # Allow users to create new documents in this collection
+fields:  # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Abstract", name: "abstract", widget: "text"}
       - {label: "Where", name: "location", widget: "text"}
@@ -75,3 +76,5 @@
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
       - {label: "Details", name: "body", widget: "markdown", required: false}
+      
+---
