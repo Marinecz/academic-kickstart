@@ -1,10 +1,14 @@
 ---
 title: "Modulation of the electroosmotic mobility using polyelectrolyte multilayer coatings for protein analysis by capillary electrophoresis"
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Laurent Leclercq
+- Marine Morvan
+- Jens Koch
+- Christian Neusüß
+- Hervé Cottet
+date: "2019-01-18"
+all_day: true
+doi: "10.1016/j.aca.2019.01.008"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
