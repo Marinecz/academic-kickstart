@@ -1,7 +1,9 @@
 ---
 Title: Polyelectrolyte multilayer coatings for protein analysis by capillary electrophoresis
 authors:
-- admin
+- Marine Morvan
+- Laurent Leclerq
+- Hervé Cottet
 Date: 2016-12-05T10:55:00
 abstract: ""
 event: "DSBC group scientific meeting"
