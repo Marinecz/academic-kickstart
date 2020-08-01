@@ -1,11 +1,11 @@
 ---
 name: talks
-label: Talks
-label_singular: Talk
-folder: 'content/talk'
-path: '{{slug}}/index'
-create: true  # Allow users to create new documents in this collection
-fields:  # The fields each document in this collection have
+    label: Talks
+    label_singular: Talk
+    folder: 'content/talk'
+    path: '{{slug}}/index'
+    create: true  # Allow users to create new documents in this collection
+    fields:  # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Abstract", name: "abstract", widget: "text"}
       - {label: "Where", name: "location", widget: "text"}
