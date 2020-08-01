@@ -2,7 +2,6 @@
 Title: Polyelectrolyte multilayer coatings for protein analysis by capillary electrophoresis
 authors:
 - Marine Morvan
- url: "https://www.fgu.cas.cz/en/departments/laboratory-of-translational-metabolism"
 - Laurent Leclercq
 - Hervé Cottet
 Date: 2016-12-05T10:55:00
