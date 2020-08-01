@@ -6,12 +6,13 @@ authors:
 - Jens Koch
 - Christian Neusüß
 - Hervé Cottet
-date: "2019-01-18"
-all_day: true
+
 doi: "10.1016/j.aca.2019.01.008"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-18"
+day_all: true
+
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
