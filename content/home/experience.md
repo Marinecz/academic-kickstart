@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Ph.D Student"
-  company = "Institute of Physiology, Laboratory of Translational Metabolism"
+  company = "Institute of Physiology CAS, Laboratory of Translational Metabolism"
   company_url = "https://www.fgu.cas.cz/en/departments/laboratory-of-translational-metabolism"
   location = "Prague, CZ"
   date_start = "2019-09-01"
