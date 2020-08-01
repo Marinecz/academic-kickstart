@@ -9,7 +9,7 @@ authors:
 publishDate: "2019-01-18"
 all_day: true
 doi: "10.1016/j.aca.2019.01.008"
-abstract: ""
+
 
 
 # Publication type.
@@ -18,6 +18,13 @@ abstract: ""
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
+
+# Publication name and optional abbreviated publication name.
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
+
+
+abstract: ""
 
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0003267019300479"
 url_slides: ""
