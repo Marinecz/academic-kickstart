@@ -1,6 +1,7 @@
 ---
 Title: Polyelectrolyte multilayer coatings for protein analysis by capillary electrophoresis
-author: ""
+authors:
+- admin
 Date: 2016-12-05T10:55:00
 abstract: ""
 event: "DSBC group scientific meeting"
