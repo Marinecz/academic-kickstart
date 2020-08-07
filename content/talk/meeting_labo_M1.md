@@ -12,8 +12,8 @@ location: "Montpellier University, FR"
 
 
 
-
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0003267019300479"
+doi: "https://www.sciencedirect.com/science/article/pii/S0003267019300479"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
