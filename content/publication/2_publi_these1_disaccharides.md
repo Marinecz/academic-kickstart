@@ -1,14 +1,20 @@
 ---
 title: "Analysis of chondroitin/dermatan sulphate disaccharides using high-performance liquid chromatography"
 authors:
-- Ivan Miksik
+- Ivan Mikšík
+- Šárka Kubinová
 - Marine Morvan
+- Karel Výborný
+- Ameneh Tatar
+- Vladimír Král
+- Kamil Záruba
+- David Sýkora
 
 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-14"
+publishDate: "2020-08-07"
 day_all: true
 
 
