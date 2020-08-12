@@ -1,17 +1,19 @@
 ---
 title: "Polyelectrolyte multilayer coatings for the separation of proteins and monoclonal antibodies by capillary electrophoresis"
 authors:
-- Laurent Leclercq
+- Samya Bekri
 - Marine Morvan
 - Jens Koch
+- Liesa Salzer
 - Christian Neusüß
+- Laurent Leclercq
 - Hervé Cottet
 
-doi: "10.1016/j.aca.2019.01.008"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-18"
+Date:"2020-02-26"
 day_all: true
+
+
 
 
 # Publication type.
