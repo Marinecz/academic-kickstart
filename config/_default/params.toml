@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {order = ['street', 'postcode', 'city'], delimiters = ["Vídeňská 1083", "142 20", "Prague 4, Czech Republic"]}
+address = {street = "Vídeňská 1083", postcode = "142 20", city = "Prague 4, Czech Republic", country = "Czechia", country_code = "CZ"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
