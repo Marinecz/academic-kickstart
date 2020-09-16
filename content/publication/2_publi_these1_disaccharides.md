@@ -11,7 +11,7 @@ authors:
 - David Sýkora
 
 
-doi: ""
+doi: "10.3390/separations7030049"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-09-16"
@@ -25,7 +25,7 @@ day_all: true
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "submitted"
+publication: "Separations"
 publication_short: ""
 
 abstract: "Chondroitin sulphates belong to a group of naturally occurring glycosaminoglycans and play a role in many physiological processes including ageing and the effects of various diseases. Research into chondroitin sulphates has found that the most important analytes are 4- and 6-sulphated disaccharides. We developed an HPLC method for the separation and quantification of underivatized chondroitin/dermatan sulphates—unsaturated disaccharides (4- and 6-sulphated disaccharides). This method is based on the separation of disaccharides by amido as well as amino columns under acidic conditions. These columns enabled the successful separation of 4- and 6-sulphated disaccharides using 50 (amido column) and 25 mmol/L (amino column) phosphate buffer, pH 4.25 (detection at 230 nm), at retention times of less than 10 min. The limit of quantification was 0.5 µg/mL. The applicability of this method was demonstrated through analysis of unsaturated disaccharides produced from the enzymatic digestion of chondroitin/dermatan sulphates of the solubilized extracellular matrix produced from porcine urinary bladder and human umbilical cord."
