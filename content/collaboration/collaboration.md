@@ -1,7 +1,9 @@
-+++
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-+++
+---
+title: "Hervé cottet"
+
+name: Hervé Cottet
+location: IBMM, Montepllier
+Date: 2016-04-01
+Date_end: 2018-07-31
+all_day: true
+---
