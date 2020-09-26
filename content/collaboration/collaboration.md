@@ -1,5 +1,5 @@
 ---
-title: "Hervé cottet"
+title: "List of collaboration"
 
 name: Hervé Cottet
 location: IBMM, Montepllier
