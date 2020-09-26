@@ -2,11 +2,13 @@
 title: "List of collaborations"
 
 [content]
-authors:
-- Hervé Cottet
-Date: 2019-09-01
-Date_end: 2019-09-04
-all_day: true
-location: "Paul Sabatier University, Toulouse, FR"
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups = ["Principal Investigators",
+                 "Researchers",
+                 "Grad Students",
+                 "Administration",
+                 "Visitors",
+                 "Alumni"]
 
 ---
