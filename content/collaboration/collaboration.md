@@ -1,7 +1,7 @@
 ---
 title: "List of collaborations"
 
-- name: Hervé Cottet
+- author: Hervé Cottet
   location: IBMM, Montepllier
   Date: 2016-04-01
   Date_end: 2018-07-31
