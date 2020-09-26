@@ -11,15 +11,6 @@ authors:
 Date: 2019-09-01
 Date_end: 2019-09-04
 all_day: true
-abstract: ""
-event: "26th International Symposium on Electroseparation and Liquid Phase-Separation Techniques (ITP 2019)"
-event_url: ""
 location: "Paul Sabatier University, Toulouse, FR"
 
-
-doi: "10.1016/j.aca.2019.01.008"
-# doi: "10.1016/j.chroma.2015.04.033"
-url_pdf: ""
-url_slides: ""
-url_video: ""
 ---
