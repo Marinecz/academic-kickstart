@@ -1,9 +1,7 @@
 ---
 title: "List of collaborations"
 
-authors:
-- Laurent Leclercq
-- Hervé Cottet
+1- Hervé cottet
 Date: 2019-09-01
 Date_end: 2019-09-04
 all_day: true
