@@ -1,6 +1,7 @@
 ---
 title: "List of collaborations"
 
+[content]
 authors:
 - Hervé Cottet
 Date: 2019-09-01
