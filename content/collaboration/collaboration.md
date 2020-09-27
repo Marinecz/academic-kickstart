@@ -2,30 +2,26 @@
 title: "List of collaborations"
 ---
 
-7- **Ivan Miksik**: *topic*  
-* Location: Institute of Physiology (Czech Republic)  
+6- **Pr. Ivan Mikšík**: *topic*  
+* Location: Laboratory of Translational Metabolism, Institute of Physiology (Prague, Czech Republic)  
 * Date: Sep. 2019 - present  
 
-6- **Ameneh Tatar, Vladimir Kral, Kamil Zaruba, David Sykova**: *topic*  
-* Location: Department of analytical chemistry, faculty of chemical engineering, university of chemistry and technology (Czech Republic)  
+5- **Ameneh Tatar, Vladimír Král, Kamil Záruba, David Sýkora**: *topic*  
+* Location: Department of Analytical Chemistry, Faculty of Chemical Engineering, University of Chemistry and Technology (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
-5- **Sarka Kubinova, Karel Vyborny**: *topic*  
-* Location: Institute of Experimental Medicine (Czech Republic)  
+4- **Šárka Kubinová, Karel Výborný**: *topic*  
+* Location: Institute of Experimental Medicine (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
-4- **Pr. Hervé Cottet, Dr. Laurent Leclercq**: *topic*  
-* Location: IBMM, University de Montpellier (France)  
+3- **Pr. Hervé Cottet, Dr. Laurent Leclercq**: *topic*  
+* Location: Dynamics of Complex Biomolecular Systems, Max Mousseron Institute of Biomolecules, University of Montpellier (Montpellier, France)  
 * Date: Apr. 2016 - Jul. 2018  
 
-3- **Dusan Koval**: *topic*  
-* Location: Institute of organique chemistry and biochemistry (Czech Republic)  
-* Date: Jan. - Jul. 2018  
-
-2- **Yannis François**: *topic*  
-* Location: Le Bel Institute, University of Strasbourg (France)  
+2- **Dr. Yannis François**: *topic*  
+* Location: Laboratory of Mass Spectrometry of Interactions and Systems, Le Bel Institute, University of Strasbourg (Strasbourg, France)  
 * Date: Jun. - Jul. 2017  
 
 1- **Pr. Christian Neusüß**:  *topic*  
-* Location: Chemistry Department, University of Aalen (Germany)
+* Location: Chemistry Department, University of Aalen (Aalen, Germany)
 * Date: Apr. - Dec. 2016
