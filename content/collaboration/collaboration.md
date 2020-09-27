@@ -2,4 +2,5 @@
 title: "List of collaborations"
 ---
 
-"Hervé"
+1. "Hervé Cottet"
+2. "Laurent Leclercq"
