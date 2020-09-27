@@ -18,7 +18,7 @@ title: "List of collaborations"
 * Location: Dynamics of Complex Biomolecular Systems, Max Mousseron Institute of Biomolecules, University of Montpellier (Montpellier, France)  
 * Date: Apr. 2016 - Jul. 2018  
 
-2- **Dr. Yannis François**: *topic*  
+2- **Dr. Yannis François**: *Separation and characterization of intact therapeutic monoclonal antibodies isoforms by CESI-MS.*  
 * Location: Laboratory of Mass Spectrometry of Interactions and Systems, Le Bel Institute, University of Strasbourg (Strasbourg, France)  
 * Date: Jun. - Jul. 2017  
 
