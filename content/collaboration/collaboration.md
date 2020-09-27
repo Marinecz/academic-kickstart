@@ -6,11 +6,11 @@ title: "List of collaborations"
 * Location: Laboratory of Translational Metabolism, Institute of Physiology (Prague, Czech Republic)  
 * Date: Sep. 2019 - present  
 
-5- **Dr. Ameneh Tatar, Pr. Vladimír Král, Pr. Kamil Záruba, Dr. David Sýkora**: *topic*  
+5- **Dr. Ameneh Tatar, Pr. Vladimír Král, Pr. Kamil Záruba, Dr. David Sýkora**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
 * Location: Department of Analytical Chemistry, Faculty of Chemical Engineering, University of Chemistry and Technology (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
-4- **Dr. Šárka Kubinová, Karel Výborný**: *topic*  
+4- **Dr. Šárka Kubinová, Karel Výborný**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
 * Location: Institute of Experimental Medicine (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
