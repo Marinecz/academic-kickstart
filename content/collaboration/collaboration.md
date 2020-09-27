@@ -2,7 +2,7 @@
 title: "List of collaborations"
 
 widget = "experience"
-headless = true  # This file represents a page section.
+
 
 
 [[experience]]
