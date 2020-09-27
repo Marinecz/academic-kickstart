@@ -2,7 +2,7 @@
 title: "List of collaborations"
 ---
 
-6- **Pr. Ivan Mikšík**: *topic*  
+6- **Pr. Ivan Mikšík**: *Analysis of biologically important compounds by LC-MS and CE-MS.*  
 * Location: Laboratory of Translational Metabolism, Institute of Physiology (Prague, Czech Republic)  
 * Date: Sep. 2019 - present  
 
