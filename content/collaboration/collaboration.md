@@ -1,5 +1,5 @@
 ---
 title: "List of collaborations"
 
-"Hervé"
+Hervé
 ---
