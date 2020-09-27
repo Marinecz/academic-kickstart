@@ -2,7 +2,7 @@
 title: "List of collaborations"
 ---
 
-5- **Ivan Miksik**: *topic*  
+7- **Ivan Miksik**: *topic*  
 * Location: Institute of Physiology (Czech Republic)  
 * Date: Sep. 2019 - present  
 
