@@ -1,4 +1,4 @@
-+++
+
 title: "List of collaborations"
 
 widget = "experience"
@@ -14,5 +14,3 @@ widget = "experience"
   date_end = ""
   description = """
   Responsibilities include:
-
-+++
