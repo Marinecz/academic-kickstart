@@ -14,7 +14,7 @@ title: "List of collaborations"
 * Location: Institute of Experimental Medicine (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
-3- **Pr. Hervé Cottet, Dr. Laurent Leclercq**: *topic*  
+3- **Pr. Hervé Cottet, Dr. Laurent Leclercq**: *Development of new polyelectrolyte multilayer coatings for intact protein analysis by CE-MS.*  
 * Location: Dynamics of Complex Biomolecular Systems, Max Mousseron Institute of Biomolecules, University of Montpellier (Montpellier, France)  
 * Date: Apr. 2016 - Jul. 2018  
 
@@ -22,6 +22,6 @@ title: "List of collaborations"
 * Location: Laboratory of Mass Spectrometry of Interactions and Systems, Le Bel Institute, University of Strasbourg (Strasbourg, France)  
 * Date: Jun. - Jul. 2017  
 
-1- **Pr. Christian Neusüß**:  *topic*  
+1- **Pr. Christian Neusüß**:  *Development of new polyelectrolyte multilayer coatings for intact protein analysis by CE-MS.*  
 * Location: Chemistry Department, University of Aalen (Aalen, Germany)
 * Date: Apr. - Dec. 2016
