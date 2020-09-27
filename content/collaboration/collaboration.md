@@ -2,6 +2,10 @@
 title: "List of collaborations"
 ---
 
+5- **Ivan Miksik**: *topic*  
+* Location: Institute of Physiology (Czech Republic)  
+* Date: Sep. 2019 - present  
+
 6- **Ameneh Tatar, Vladimir Kral, Kamil Zaruba, David Sykova**: *topic*  
 * Location: Department of analytical chemistry, faculty of chemical engineering, university of chemistry and technology (Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
