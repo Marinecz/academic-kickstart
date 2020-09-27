@@ -1,7 +1,7 @@
-+++
+---
 title: "List of collaborations"
 
-[[experience]]
+[[collaboration]]
   title = "Ph.D Student"
   company = "Institute of Physiology CAS, Laboratory of Translational Metabolism"
   company_url = "https://www.fgu.cas.cz/en/departments/laboratory-of-translational-metabolism"
@@ -13,4 +13,4 @@ title: "List of collaborations"
   
   Collaboration: Verona University, IT"""
 
-+++
+---
