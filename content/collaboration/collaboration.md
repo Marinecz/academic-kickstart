@@ -1,5 +1,5 @@
 ---
-title: "List of collaborations"
+
 
 widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
