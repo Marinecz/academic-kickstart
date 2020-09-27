@@ -1,6 +1,3 @@
----
-
-
 widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
 
@@ -35,4 +32,4 @@ headless = true  # This file represents a page section.
   #   3 = Card
   #   4 = Citation (publication only)
   view = 1
----
+
