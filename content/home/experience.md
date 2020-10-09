@@ -27,7 +27,8 @@ date_format = "Jan 2006"
   description = """Analysis of biologically important compounds by LC-MS and CE-MS.  
   Chiral separation of amino acids for proteomic analysis.  
   
-  Collaboration: Verona University, IT"""
+  Collaboration: Verona University, IT  
+                 Institute of Experimental Medicine, Prague CZ"""
 
 [[experience]]
   title = "M.Sc Student"
