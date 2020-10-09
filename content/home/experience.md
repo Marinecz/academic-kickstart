@@ -30,7 +30,9 @@ date_format = "Jan 2006"
   Collaborations:  
   * Verona University, IT  
   * Institute of Experimental Medicine, Prague CZ  
-  * University of Chemistry and Technology, Prague CZ"""
+  * University of Chemistry and Technology, Prague CZ  
+  
+  1 publication"""
 
 [[experience]]
   title = "M.Sc Student"
