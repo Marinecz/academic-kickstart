@@ -1,18 +1,18 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/poster/`.
+# A Recent and Upcoming Posters section created with the Pages widget.
+# This section displays recent posters from `content/poster/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent Talks"
+title = "Recent Posters"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "poster"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
