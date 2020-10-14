@@ -11,7 +11,9 @@ authors:
 
 
 
-
+Date: 2020-02-26
+day_all: true
+location: "Montpellier University, FR"
 
 
 
@@ -48,6 +50,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-Date: 2020-02-26
-day_all: true
-location: "Montpellier University, FR"
+
