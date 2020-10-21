@@ -78,4 +78,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Student in Proteomics at Institute of Physiology CAS within Laboratory of Translational Metabolism in Prague (Czech Republic).
+I am a Ph.D Student in Proteomics at Institute of Physiology CAS within Laboratory of Translational Metabolism in Prague (Czech Republic).
+My researchs consists in elucidating the structures of proteins having a biological action on the human body. Several modifications and degradations on the proteomic sequences can form throughout life.
+The first part of my research focuses on the proteomic sequence of human collagen. For samples at different ages, L/D amino acid conversions, post-translational and crosslinking modifications were elucidated.
