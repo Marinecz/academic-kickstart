@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "conference paper"
+    publication_type = ""
     author = ""
     exclude_featured = false
     exclude_past = false
