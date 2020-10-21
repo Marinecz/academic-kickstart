@@ -50,5 +50,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-Date: 2020-02-26
+Date: 2020-02-26  
 Location: University of Montpellier, FR
