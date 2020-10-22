@@ -1,7 +1,7 @@
 ---
 title: "List of collaborations"
 ---
-
+<div style="text-align: justify">
 6- **Pr. Ivan Mikšík**: *Analysis of biologically important compounds by LC-MS and CE-MS.*  
 * Location: Laboratory of Translational Metabolism, Institute of Physiology (Prague, Czech Republic)  
 * Date: Sep. 2019 - present  
@@ -25,3 +25,4 @@ title: "List of collaborations"
 1- **Pr. Christian Neusüß**:  *Development of new polyelectrolyte multilayer coatings for intact protein analysis by CE-MS.*  
 * Location: Chemistry Department, University of Aalen (Aalen, Germany)
 * Date: Apr. - Dec. 2016
+</div>
