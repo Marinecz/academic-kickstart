@@ -7,6 +7,8 @@ headless: true  # This file represents a page section.
 title: "Teaching"
 subtitle: "Physics and Chemistry"
 Location: "Lycee Francais de Prague"
+Date: "09-2020"
+Date_end: "08-2021"
 
 
 content:
