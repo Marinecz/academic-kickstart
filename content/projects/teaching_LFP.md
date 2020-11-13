@@ -1,6 +1,8 @@
 ---
 
 title: "Teaching"
-subtitle: ""
+subtitle: "Physics and Chemistry"
+Location: "Lycee Francais de Prague"
+
 
 ---
