@@ -1,6 +1,6 @@
 ---
 
-title = "Teaching"
+title: "Teaching"
 subtitle = ""
 
 ---
