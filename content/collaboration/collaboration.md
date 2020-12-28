@@ -10,7 +10,7 @@ title: "List of collaborations"
 * Location: Department of Analytical Chemistry, Faculty of Chemical Engineering, University of Chemistry and Technology (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
-   **Dr. Šárka Kubinová, Karel Výborný**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
+ **Dr. Šárka Kubinová, Karel Výborný**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
 * Location: Institute of Experimental Medicine (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
