@@ -2,15 +2,15 @@
 title: "List of collaborations"
 ---
 
-6- **Pr. Ivan Mikšík**: *Analysis of biologically important compounds by LC-MS and CE-MS.*  
+5- **Pr. Ivan Mikšík**: *Analysis of biologically important compounds by LC-MS and CE-MS.*  
 * Location: Laboratory of Translational Metabolism, Institute of Physiology (Prague, Czech Republic)  
 * Date: Sep. 2019 - present  
 
-5- **Dr. Ameneh Tatar, Pr. Vladimír Král, Pr. Kamil Záruba, Dr. David Sýkora**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
+4- **Dr. Ameneh Tatar, Pr. Vladimír Král, Pr. Kamil Záruba, Dr. David Sýkora**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
 * Location: Department of Analytical Chemistry, Faculty of Chemical Engineering, University of Chemistry and Technology (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
-4- **Dr. Šárka Kubinová, Karel Výborný**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
+   **Dr. Šárka Kubinová, Karel Výborný**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
 * Location: Institute of Experimental Medicine (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
