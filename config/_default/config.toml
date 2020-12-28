@@ -14,7 +14,7 @@ baseurl = "https://marinemorvan.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "© 2020 Marine Morvan"
+copyright = "© 2021 Marine Morvan"
 
 ############################
 ## Advanced options below ##
