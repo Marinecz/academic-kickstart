@@ -20,7 +20,7 @@ organizations:
   url: "https://www.upce.cz/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D Student in Proteomics at Institute of Physiology in Prague
+bio: 
 
 interests:
 - Human tissue samples
