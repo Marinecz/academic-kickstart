@@ -8,10 +8,10 @@ title: Projects
 #   4 = Citation
 view: 3
 
-# Optional header image (relative to `static/img/` folder).
-# header:
-  # caption: ""
-  # "image: ""
+Optional header image (relative to `static/img/` folder).
+ header:
+   caption: ""
+   "image: ""
   
 
 ---
