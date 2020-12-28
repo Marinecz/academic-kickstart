@@ -9,7 +9,7 @@ title: Projects
 view: 3
 
 # Optional header image (relative to `static/img/` folder).
- # header:
+ header:
    caption: ""
    image: ""
   
