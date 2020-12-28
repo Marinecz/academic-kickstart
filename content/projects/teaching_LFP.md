@@ -10,12 +10,11 @@ Location: "Lycée Français de Prague"
 Date: "2020-09"
 Date_end: "2021-08"
 
+# Page type to display. E.g. project.
+page_type: project
 
-  # Page type to display. E.g. project.
-  page_type: project
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
-  filter_default: 0
+# Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
+filter_default: 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
