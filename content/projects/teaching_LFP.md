@@ -11,7 +11,7 @@ Date: "2020-09"
 Date_end: "2021-08"
 
 
-[content]
+content:
   # Page type to display. E.g. project.
   page_type: project
 
