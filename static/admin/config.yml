@@ -128,7 +128,7 @@ collections:
   - name: projects
     label: Projects
     label_singular: Project
-    folder: 'content/project'
+    folder: 'content/projects'
     path: '{{slug}}/index'
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
