@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Chiral separation of amino acids for proteomic analysis.  
   
   Collaborations:  
-  * Verona University, IT  
+  * Verona University, Verona IT  
   * Institute of Experimental Medicine, Prague CZ  
   * University of Chemistry and Technology, Prague CZ  """
 
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   description = """Modulation of the electroosmotic mobility using several charge rates of polyelectrolyte multilayer coatings for intact biomolecules analysis by CE.  
   Determination of charge rates of polyelectrolytes by <sup>1</sup>H NMR.
 
-  Collaboration: Prague University, CZ"""
+  Collaboration: Institute of Organic Chemistry and Biochemistry, Prague CZ"""
 
 [[experience]]
   title = "M.Sc Student"
