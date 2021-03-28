@@ -10,7 +10,7 @@ title: "List of collaborations"
 * Location: Department of Analytical Chemistry, Faculty of Chemical Engineering, University of Chemistry and Technology (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
- **Dr. Šárka Kubinová, Karel Výborný**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
+**Dr. Šárka Kubinová, Karel Výborný**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
 * Location: Institute of Experimental Medicine (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
@@ -22,7 +22,7 @@ title: "List of collaborations"
 * Location: Laboratory of Mass Spectrometry of Interactions and Systems, Le Bel Institute, University of Strasbourg (Strasbourg, France)  
 * Date: Jun. - Jul. 2017  
 
-1- **Pr. Christian Neusüß**:  *Development of new polyelectrolyte multilayer coatings for intact protein analysis by CE-MS.*  
+1- **Pr. Christian Neusüß**: *Development of new polyelectrolyte multilayer coatings for intact protein analysis by CE-MS.*  
 * Location: Chemistry Department, University of Aalen (Aalen, Germany)
 * Date: Apr. - Dec. 2016
 
