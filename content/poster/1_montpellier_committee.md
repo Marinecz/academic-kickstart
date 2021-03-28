@@ -47,4 +47,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-Feb 26, 2020 • Montpellier University, FR
+Feb 26, 2020 • Montpellier University, Montpellier FR
