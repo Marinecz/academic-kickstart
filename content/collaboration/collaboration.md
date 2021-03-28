@@ -6,12 +6,9 @@ title: "List of collaborations"
 * Location: Laboratory of Translational Metabolism, Institute of Physiology (Prague, Czech Republic)  
 * Date: Sep. 2019 - present  
 
-4- **Dr. Ameneh Tatar, Pr. Vladimír Král, Pr. Kamil Záruba, Dr. David Sýkora**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
-* Location: Department of Analytical Chemistry, Faculty of Chemical Engineering, University of Chemistry and Technology (Prague, Czech Republic)  
-* Date: Sep. 2019 - Sep. 2020  
-
-**Dr. Šárka Kubinová, Karel Výborný**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
-* Location: Institute of Experimental Medicine (Prague, Czech Republic)  
+4- **Dr. Šárka Kubinová<sup>1</sup>, Karel Výborný<sup>1</sup>, Dr. Ameneh Tatar<sup>2</sup>, Pr. Vladimír Král<sup>2</sup>, Pr. Kamil Záruba<sup>2</sup>, Dr. David Sýkora<sup>2</sup>**: *Analysis of Chondroitin/Dermatan Sulphate Disaccharides Using HPLC.*  
+* Location<sup>1</sup>: Institute of Experimental Medicine (Prague, Czech Republic)  
+* Location<sup>2</sup>: Department of Analytical Chemistry, Faculty of Chemical Engineering, University of Chemistry and Technology (Prague, Czech Republic)  
 * Date: Sep. 2019 - Sep. 2020  
 
 3- **Pr. Hervé Cottet, Dr. Laurent Leclercq**: *Development of new polyelectrolyte multilayer coatings for intact protein analysis by CE-MS.*  
