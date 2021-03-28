@@ -22,4 +22,3 @@ title: "List of collaborations"
 1- **Pr. Christian Neusüß**: *Development of new polyelectrolyte multilayer coatings for intact protein analysis by CE-MS.*  
 * Location: Chemistry Department, University of Aalen (Aalen, Germany)
 * Date: Apr. - Dec. 2016
-
