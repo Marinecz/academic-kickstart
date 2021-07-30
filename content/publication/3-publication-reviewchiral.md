@@ -1,5 +1,5 @@
 ---
-title: "Analysis of chondroitin/dermatan sulphate disaccharides using high-performance liquid chromatography"
+title: "Recent Advances in Chiral Analysis of Proteins and Peptides"
 authors:
 - Marine Morvan
 - Ivan Mikšík
