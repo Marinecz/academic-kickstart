@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Bordeaux University"
-  organization_url = "https://www.coursera.org"
+  organization_url = "https://"
   title = "Advanced mass spectrometry applied to cultural heritage"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = "https://"
   date_start = "2021-06-16"
   date_end = ""
   description = ""
