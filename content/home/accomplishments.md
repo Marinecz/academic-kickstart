@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Bordeaux Summer School - Bordeaux University, FR"
-  organization_url = "https://"
+  organization_url = "https://bss-appliedchemistry.u-bordeaux.fr/en/"
   title = "Advanced mass spectrometry applied to cultural heritage"
   url = ""
   certificate_url = "https://"
