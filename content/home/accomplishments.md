@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 01, 2006"
+date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -25,7 +25,7 @@ date_format = "Jan 01, 2006"
   url = ""
   certificate_url = "https://www.coursera.org"
   date_start = "2021-06-16"
-  date_end = "2021-06-18"
+  date_end = ""
   description = ""
 
 
