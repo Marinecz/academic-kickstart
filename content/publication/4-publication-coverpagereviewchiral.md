@@ -32,9 +32,9 @@ abstract: "Proteins and peptides are primarily found in their L-form. Recent stu
 # - Source Themes
 # featured: false
 
-# links:
-# - name: ""
-url: "https://www.mdpi.com/2297-8739/8/8"
+links:
+- name: "Cover Page"
+  url: "https://www.mdpi.com/files/uploaded/covers/separations/big_cover-separations-v8-i8.png"
 url_pdf: 
 url_code: ''
 url_dataset: ''
