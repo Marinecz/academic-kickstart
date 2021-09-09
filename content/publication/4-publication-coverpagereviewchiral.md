@@ -6,7 +6,7 @@ authors:
 
 
 doi: ""
-url: "https://www.mdpi.com/2297-8739/8/8"
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-26"
@@ -34,6 +34,7 @@ abstract: "Proteins and peptides are primarily found in their L-form. Recent stu
 
 # links:
 # - name: ""
+url: "https://www.mdpi.com/2297-8739/8/8"
 url_pdf: 
 url_code: ''
 url_dataset: ''
