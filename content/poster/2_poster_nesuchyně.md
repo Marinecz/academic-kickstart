@@ -4,7 +4,6 @@ authors:
 - Marine Morvan
 - Ivan Mikšík
 Date: 2021-11-08
-Date_end: 2021-11-10
 day_all: true
 location: "Annual congress of the Institute of Physiology, Nesuchyně CZ"
 
