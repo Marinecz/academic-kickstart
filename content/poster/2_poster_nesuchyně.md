@@ -3,7 +3,8 @@ title: "Chiral proteinogenic amino acid analysis applied to aging collagen"
 authors:
 - Marine Morvan
 - Ivan Mikšík
-Date: 2021-8-11
+Date: 2021-11-08
+Date_end: 2021-11-10
 day_all: true
 location: "Annual congress of the Institute of Physiology, Nesuchyně CZ"
 
