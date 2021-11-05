@@ -42,4 +42,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-Feb 26, 2020 • Montpellier University, Montpellier FR
+Nov 8, 2021 - Nov 10, 2021 • Annual congress of Institute of Physiology, Nesuchyně CZ
