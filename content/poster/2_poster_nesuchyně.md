@@ -5,7 +5,7 @@ authors:
 - Ivan Mikšík
 Date: 2021-8-11
 day_all: true
-location: "Annual congress of Institute of Physiology, Nesuchyně CZ"
+location: "Annual congress of the Institute of Physiology, Nesuchyně CZ"
 
 
 
@@ -42,4 +42,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-Nov 8, 2021 - Nov 10, 2021 • Annual congress of Institute of Physiology, Nesuchyně CZ
+Nov 8, 2021 - Nov 10, 2021 • Annual congress of the Institute of Physiology, Nesuchyně CZ
