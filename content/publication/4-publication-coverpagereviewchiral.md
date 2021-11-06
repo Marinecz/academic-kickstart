@@ -1,5 +1,5 @@
 ---
-title: "Cover Page - Determination of Protein and Peptide Chirality"
+title: "Cover Page: Determination of Protein and Peptide Chirality"
 authors:
 - Marine Morvan
 - Ivan Mikšík
