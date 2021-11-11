@@ -42,4 +42,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-Nov 8, 2021 — Nov 10, 2021 • Annual congress of the Institute of Physiology, Nesuchyně CZ
+Nov 8, 2021 — Nov 10, 2021 • Annual congress of the Institute of Physiology, Nesuchyně CZ 
