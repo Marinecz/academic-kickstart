@@ -30,8 +30,8 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Paris Saclay University, FR"
-  organization_url = "Journey to the heart of living things with X-rays: the crystallography"
-  title = "Advanced mass spectrometry applied to cultural heritage"
+  organization_url = ""
+  title = "Journey to the heart of living things with X-rays: the crystallography"
   url = ""
   certificate_url = "https://"
   date_start = "2022-01-11"
