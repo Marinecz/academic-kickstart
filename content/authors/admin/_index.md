@@ -24,7 +24,7 @@ bio:
 
 interests:
 - Human tissue samples
-- Proteomics
+- Proteomics and aging
 - Chiral separation
 - Analysis by LC-MS and CE-MS
 
