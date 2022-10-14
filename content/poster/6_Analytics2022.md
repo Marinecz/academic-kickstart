@@ -1,5 +1,5 @@
 ---
-title: "Chiral amino acids analysis and aging proteomics applied to collagens"
+title: "P6 - Chiral amino acids analysis and aging proteomics applied to collagens"
 authors:
 - Marine Morvan
 - Ivan Mikšík
