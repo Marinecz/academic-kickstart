@@ -1,5 +1,5 @@
 ---
-title: "Chiral proteinogenic amino acid analysis applied to aging collagen"
+title: "P2 - Chiral proteinogenic amino acid analysis applied to aging collagen"
 authors:
 - Marine Morvan
 - Ivan Mikšík
