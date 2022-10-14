@@ -1,5 +1,5 @@
 ---
-title: "Polyelectrolyte multilayer coatings for the separation of proteins and monoclonal antibodies by capillary electrophoresis"
+title: "P1 - Polyelectrolyte multilayer coatings for the separation of proteins and monoclonal antibodies by capillary electrophoresis"
 authors:
 - Samya Bekri
 - Marine Morvan
