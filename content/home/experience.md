@@ -33,6 +33,15 @@ date_format = "Jan 2006"
   * University of Chemistry and Technology, Prague CZ  """
 
 [[experience]]
+  title = "Visiting Ph.D Student"
+  company = "Institute of Pharmaceutical Sciences of Western Switzerland, Laboratory of Biomedical and Metabolomic Analysis"
+  company_url = "https://ispso.unige.ch/labs/fanal/analyses-biomedicales:en"
+  location = "Geneva, CH"
+  date_start = "2023-01-23"
+  date_end = "2023-02-24"
+  description = ""
+
+[[experience]]
   title = "M.Sc Student"
   company = "Max Mousseron Institute of Biomolecules, Dynamics of Complex Biomolecular Systems team (DSBC)"
   company_url = "http://www.dsbc.univ-montp2.fr/index_en.html"
