@@ -37,4 +37,14 @@ date_format = "Jan 2006"
   date_start = "2022-01-11"
   date_end = ""
   description = ""
+  
+  [[item]]
+  organization = "University of Liège, BE"
+  organization_url = ""
+  title = "Introduction to histology: exploration of the tissues of the human body"
+  url = ""
+  certificate_url = "https://"
+  date_start = "2023-02-23"
+  date_end = ""
+  description = ""
 +++
