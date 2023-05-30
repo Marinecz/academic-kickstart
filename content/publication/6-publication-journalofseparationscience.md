@@ -5,7 +5,7 @@ authors:
 - Marine Morvan
 - Jaroslav Brůžek
 
-doi: ""
+doi: "10.1002/jssc.202300183"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-26"
@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "Journal of Separation Science"
 publication_short: "J. Sep. Sci."
 
-abstract: ""
+abstract: "Proteomics has become an attractive method to study human and animal material, biological profile, and origin as an alternative to DNA analysis. It is limited by DNA amplification in ancient samples and its contamination, high cost, and limited preservation of nuclear DNA. Currently, three approaches are available to estimate sex–osteology, genomics, or proteomics, but little is known about the relative reliability of these methods in applied settings. Proteomics provides a new, seemingly simple, and relatively non-expensive way of sex estimation without the risk of contamination. Proteins can be preserved in hard teeth tissue (enamel) for tens of thousands of years. It uses two sexually distinct forms of the protein amelogenin in tooth enamel detectable by liquid chromatography-mass spectrometry; the protein amelogenin Y isoform is present in enamel dental tissue only in males, while amelogenin isoform X can be found in both sexes. From the point of view of archaeological, anthropological, and forensic research and applications, the reduced destruction of the methods used is essential, as well as the minimum requirements for sample size."
 
 
 
@@ -36,7 +36,7 @@ abstract: ""
 
 # links:
 # - name: ""
-#   url: ""
+#   url: "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jssc.202300183"
 url_pdf: 
 url_code: ''
 url_dataset: ''
