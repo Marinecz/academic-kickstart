@@ -1,5 +1,5 @@
 ---
-title: "Early life histories of Great Moravian children – carbon and nitrogen isotopic analysis of dentine serial sections from the Early Medieval population of Mikulčice (9th-10th centuries AD, Czechia)"
+title: "Preprint: Early life histories of Great Moravian children – carbon and nitrogen isotopic analysis of dentine serial sections from the Early Medieval population of Mikulčice (9th-10th centuries AD, Czechia)"
 authors:
 - Sylva Drtikolová Kaupová
 - Jaroslav Brůžek
