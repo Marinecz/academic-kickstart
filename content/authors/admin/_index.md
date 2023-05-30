@@ -82,5 +82,5 @@ user_groups:
 ---
 
 <div style="text-align: justify">I am a Ph.D Candidate in Proteomics at Institute of Physiology CAS within Laboratory of Translational Metabolism in Prague (Czech Republic).</div>
-<div style="text-align: justify">The first part of my research focuses on the proteogenic sequence of aging collagen. For samples at different ages and organisms, L/D amino acid racemization, post-translational modifications and sequence degradations were studied during the natural aging process throughout life.</div>
+<div style="text-align: justify">The first part of my research focuses on the proteogenic sequence of aging collagen. For samples from different organisms and at different ages, L/D amino acid racemization, post-translational modifications and sequence degradations were studied during the natural aging process throughout life.</div>
 <div style="text-align: justify">The second part of my research focuses on the paleoproteomics analysis of skeletal remains for the sex estimation. Both amelogenin protein forms from archaeological tooth were studied.</div>
