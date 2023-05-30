@@ -4,7 +4,7 @@ authors:
 - Marine Morvan
 - Ivan Mikšík
 
-doi: ""
+doi: "10.1016/j.aca.2023.341260"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-04-22"
@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "Analytica Chimica Acta"
 publication_short: "Anal. Chim. Acta."
 
-abstract: ""
+abstract: "Collagen is the most abundant protein in the animal and human bodies, and it is not exempt from this aging phenomenon. Some age-related changes may appear on collagen sequences, such as increased surface hydrophobicity, the appearance of post-translational modifications, and amino acids racemization. This study has shown that the protein hydrolysis under deuterium conditions is privileged to limit the natural racemization during the hydrolysis. Indeed, under the deuterium condition, the homochirality of recent collagens is preserved whose amino acids are found in their L-form. However, in aging collagen, a natural amino acid racemization was observed. These results confirmed that the % D-amino acids are progressive according to age. The collagen sequence is degraded over time, and a fifth of the sequence information is lost during aging. Post-translational modifications (PTMs) in aging collagens can be a hypothesis to explain the modification of the hydrophobicity of the protein with the decrease of hydrophilic groups and the increase of hydrophobic groups. Finally, the exact positions of D-amino acids and PTMs have been correlated and elucidated."
 
 
 
