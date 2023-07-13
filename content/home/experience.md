@@ -34,6 +34,15 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Visiting Ph.D Student"
+  company = "Institute of Organic Chemistry and Biochemistry CAS, Laboratory of Electromigration Methods"
+  company_url = "https://electromigration.group.uochb.cz/en"
+  location = "Prague, CZ"
+  date_start = "2023-07-11"
+  date_end = ""
+  description = ""
+
+[[experience]]
+  title = "Visiting Ph.D Student"
   company = "Institute of Pharmaceutical Sciences of Western Switzerland, Laboratory of Biomedical and Metabolomic Analysis"
   company_url = "https://ispso.unige.ch/labs/fanal/analyses-biomedicales:en"
   location = "Geneva, CH"
