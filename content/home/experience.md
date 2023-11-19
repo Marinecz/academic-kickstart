@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://electromigration.group.uochb.cz/en"
   location = "Prague, CZ"
   date_start = "2023-07-11"
-  date_end = ""
+  date_end = "2023-09-30"
   description = ""
 
 [[experience]]
