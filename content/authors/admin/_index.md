@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Candidate in Proteomics
+role: Ph.D in Proteomics
 
 # Organizations/Affiliations
 organizations:
