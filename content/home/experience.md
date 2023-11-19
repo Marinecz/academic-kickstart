@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.fgu.cas.cz/en/departments/laboratory-of-translational-metabolism"
   location = "Prague, CZ"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2023-11-30"
   description = """Analysis of biologically important compounds by LC-MS and CE-MS.  
   Chiral separation of amino acids for proteomic analysis.  
   
