@@ -14,18 +14,17 @@ role: Ph.D in Proteomics
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Physiology, CAS
-  url: "https://www.fgu.cas.cz/en/departments/laboratory-of-translational-metabolism"
-- name: Univerzita Pardubice
-  url: "https://www.upce.cz/"
+- name: Globe Institute, University of Copenhagen
+  url: "https://globe.ku.dk/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
+- Paleoproteomics
 - Human tissue samples
-- Proteomics and aging
-- Chiral separation
+- Sex identification
 - Analysis by LC-MS and CE-MS
 
 education:
@@ -62,7 +61,7 @@ social:
   link: https://scholar.google.com/citations?user=bmMvHYcAAAAJ&hl=en&oi=ao
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MarineMorvan_
+  link: https://twitter.com/MarineMorvanPhD
 
 
 # Link to a PDF of your resume/CV from the About widget.
