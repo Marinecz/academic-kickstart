@@ -11,7 +11,7 @@ authors:
 - Eliška Zazvonilová
 - Bruno Maureille
 - Petr Velemínský
-doi: "10.1002/jssc.202300183"
+doi: "10.1016/j.culher.2023.11.021"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-11-22"
