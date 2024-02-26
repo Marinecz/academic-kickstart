@@ -1,20 +1,18 @@
 ---
 title: "Early life histories at medieval Mikulčice (ninth–tenth centuries AD, Czechia) based on carbon and nitrogen profiles of tooth dentine"
 authors:
-- Jaroslav Brůžek
-- Ivan Mikšík
-- Anežka Pilmann Kotěrová
-- Marine Morvan
 - Sylva Drtikolová Kaupová
-- Frédéric Santos
-- Alžběta Danielisová
-- Eliška Zazvonilová
-- Bruno Maureille
+- Jaroslav Brůžek
+- Jiří Hadrava
+- Ivan Mikšík
+- Marine Morvan
+- Lumír Poláček
+- Lenka Půtová
 - Petr Velemínský
-doi: "10.1016/j.culher.2023.11.021"
+doi: "10.1007/s12520-023-01923-0"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-11-22"
+publishDate: "2023-12-27"
 day_all: true
 
 
@@ -25,13 +23,10 @@ day_all: true
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Cultural Heritage"
-publication_short: "J. Cult. Herit."
+publication: "Archaeological and Anthropological Sciences"
+publication_short: "Archaeol. Anthropol. Sci."
 
-abstract: "Being a part of the cultural heritage, skeletal human remains and grave objects are often the only evidence of people who lived many years, or even centuries or millennia, ago, and their preservation for future generations is thus of the utmost importance. The first task in analyzing skeletal remains is to build a biological profile of the individual, including in particular a sex estimation. Recently developed proteomic sex analysis, based on the detection of two sex-dependent forms of the amelogenin protein in tooth enamel, could offer a minimally-invasive and reliable approach applicable to both recent and past populations.
-The aims of the present study are: 1) to validate the proteomic sex estimation approach with a delicate, minimally-destructive protocol using protein etching in recent and sub-recent identified samples of adult individuals; 2) for the first time, to evaluate the invasiveness of the extraction of amelogenin protein from teeth for proteomic analysis via scanning electron microscope (SEM) and microcomputed tomography (micro-CT); 3) to apply the method to an archaeological sample of unknown adult and juvenile individuals.
-An assemblage of 60 teeth (32 males and 28 females) of recent and sub-recent origin was used to validate the approach. A sub-sample of 20 teeth (10 males and 10 females) was used to assess the invasiveness of the amelogenin extraction procedure. For the application of the method, samples of 15 adult and 32 juvenile teeth, both originating from medieval populations, were used.
-Proteomic sex estimation achieved 100% accuracy in this sample. An SEM and micro-CT comparison of the dental surfaces before and after chemical treatment showed an approximately 10% loss of enamel and only 2% loss of dentine. The suitability and minimally-invasive character of the protocol for proteomic analysis in biological sex estimation was demonstrated, as was its applicability to archaeological samples."
+abstract: "In order to compare the early life experiences of different population subgroups from the Early Medieval center of Mikulčice, carbon and nitrogen isotopic values were measured in dentine serial sections from the first permanent molar of 78 individuals. Age at death, sex (estimated in subadults with the help of proteomics), and socio-economic status were considered explicative variables. Average values of both nitrogen and carbon maximal isotopic offset within the isotopic profile were 3.1 ± 0.8‰ for Δ15Nmax and 1.6 ± 0.8‰ for Δ13Cmax. Individuals who died during the first decade of life showed earlier ages at the stabilization of the nitrogen isotopic curve (suggesting complete weaning) than older individuals. Most individuals (n = 43) showed positive covariance between δ15N and δ13C values during the period of breastfeeding. The average δ15N values from the post-weaning period were similar to those of bone, while post-weaning δ13C values were significantly higher. Though an increased Δ15Nmax may potentially be evidence of physiological stress, the intra-population comparison of early life experiences does not suggest that individuals who died during their first decade experienced greater levels of environmental stress during infancy. The predominance of positive covariance between carbon and nitrogen isotopic values during the breastfeeding period, together with an increased Δ13Cmax and increased post-weaning δ13C, suggests that millet either was a part of a special diet preferred during lactation or was introduced as a first dietary supplement."
 
 
 
@@ -45,7 +40,7 @@ Proteomic sex estimation achieved 100% accuracy in this sample. An SEM and micro
 
 # links:
 # - name: ""
-#   url: "https://www.sciencedirect.com/science/article/pii/S1296207423002376"
+#   url: "https://link.springer.com/article/10.1007/s12520-023-01923-0#citeas"
 url_pdf: 
 url_code: ''
 url_dataset: ''
