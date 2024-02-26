@@ -45,7 +45,7 @@ Proteomic sex estimation achieved 100% accuracy in this sample. An SEM and micro
 
 # links:
 # - name: ""
-#   url: "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jssc.202300183"
+#   url: "https://www.sciencedirect.com/science/article/pii/S1296207423002376"
 url_pdf: 
 url_code: ''
 url_dataset: ''
