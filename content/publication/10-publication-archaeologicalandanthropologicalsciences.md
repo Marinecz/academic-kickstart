@@ -1,5 +1,5 @@
 ---
-title: "Undertaking the biological sex assessment of human remains: The applicability of minimally-invasive methods for proteomic sex estimation from enamel peptides"
+title: "Early life histories at medieval Mikulčice (ninth–tenth centuries AD, Czechia) based on carbon and nitrogen profiles of tooth dentine"
 authors:
 - Jaroslav Brůžek
 - Ivan Mikšík
