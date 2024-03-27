@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Vídeňská 1083", postcode = "142 20", city = "Prague 4, Czech Republic", country = "Czechia", country_code = "CZ"}
+address = {street = "Øster Voldgade 5-7", postcode = "1350", city = "Copenhagen, Denmark", country = "Denmark", country_code = "DK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "50.0171939", longitude = "14.4658267"}
 
 # Directions for visitors to locate you.
-directions = "Czech Academy of Sciences, Institute of Physiology, Building E, Office 201 on Floor 2"
+directions = "University of Copenhagen, Faculty of Health and Medical Sciences, Globe Institute, Section for GeoGenetics"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
