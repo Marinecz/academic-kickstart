@@ -97,7 +97,7 @@ address = {street = "Øster Voldgade 5-7", postcode = "1350", city = "Copenhagen
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "50.0171939", longitude = "14.4658267"}
+coordinates = {latitude = "55.687340", longitude = "12.577380"}
 
 # Directions for visitors to locate you.
 directions = "University of Copenhagen, Faculty of Health and Medical Sciences, Globe Institute, Section for GeoGenetics"
