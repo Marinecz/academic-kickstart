@@ -27,6 +27,15 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
+  title = "Guest Researcher"
+  company = "Novo Nordisk Foundation Center for Protein Research, University of Copenhagen"
+  company_url = ""
+  location = "Copenhagen, DK"
+  date_start = "2024-02-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
   title = "Ph.D Student"
   company = "Institute of Physiology CAS, Laboratory of Translational Metabolism"
   company_url = "https://www.fgu.cas.cz/en/departments/laboratory-of-translational-metabolism"
