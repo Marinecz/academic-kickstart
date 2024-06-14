@@ -1,6 +1,6 @@
 +++
 # A Recent and Upcoming Posters section created with the Pages widget.
-# This section displays recent posters from `content/poster/`.
+# This section displays recent posters from `content/Peer-review/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
