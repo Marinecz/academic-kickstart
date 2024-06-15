@@ -1,5 +1,5 @@
 ---
-title: Peer review
+title: Peer-review
 
 # View.
 #   1 = List
