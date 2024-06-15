@@ -117,7 +117,7 @@ contact_links = [
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/marine-morvan-8a17a6142/"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/marine-morvan-phd-8a17a6142/"},
   {icon = "researchgate", icon_pack = "ai", name = "ResearchGate", link = "https://www.researchgate.net/profile/Marine_Morvan2"},
   {icon = "orcid", icon_pack = "ai", name = "ORCID", link = "https://orcid.org/0000-0001-7904-7108"},
   {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.com/citations?user=bmMvHYcAAAAJ&hl=en&oi=ao"},
