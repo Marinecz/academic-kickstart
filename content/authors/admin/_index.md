@@ -16,7 +16,8 @@ role: Ph.D in Proteomics
 organizations:
 - name: Globe Institute, University of Copenhagen
   url: "https://curis.ku.dk/portal/en/persons/marine-morvan(59bec918-d630-4fd9-b5c6-5c6a5957446e).html"
-
+- name: Novo Nordisk Foundation Center for Protein Research, University of Copenhagen
+  url: "https://curis.ku.dk/portal/en/persons/marine-morvan(59bec918-d630-4fd9-b5c6-5c6a5957446e).html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
