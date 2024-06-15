@@ -15,7 +15,7 @@ role: Ph.D in Proteomics
 # Organizations/Affiliations
 organizations:
 - name: Globe Institute, University of Copenhagen
-  url: "https://globe.ku.dk/"
+  url: "https://curis.ku.dk/portal/en/persons/marine-morvan(59bec918-d630-4fd9-b5c6-5c6a5957446e).html"
 
 
 # Short bio (displayed in user profile at end of posts)
