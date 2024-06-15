@@ -24,8 +24,9 @@ bio:
 
 interests:
 - Paleoproteomics
-- Human tissue samples
+- Human & Animal samples
 - Sex identification
+- Species identification
 - Analysis by LC-MS and CE-MS
 
 education:
